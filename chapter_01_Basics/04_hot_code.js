@@ -1,8 +1,8 @@
 console.log("Hello");
 
-//function add(a, b) {
-//  return a + b;
-//}
+function add(a, b) {
+    return a + b;
+}
 
 let result;
 for (let i = 0; i < 1000; i++) {
