@@ -7,7 +7,6 @@
 //5 - Friday
 //6 - Saturday
 
-
 let day = 10;
 switch (day) {
 
